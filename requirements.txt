@@ -1,4 +1,3 @@
-openssl-python
 Click
 Flask
 itsdangerous
