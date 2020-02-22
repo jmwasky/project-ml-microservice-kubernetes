@@ -10,7 +10,6 @@ setup:
 	python3 -m venv ~/.devops
 
 install:
-	apt install python3-dev
 	# This should be run from inside a virtualenv
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
